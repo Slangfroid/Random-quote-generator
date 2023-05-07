@@ -1,19 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Random Quotes</title>
-  <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="css/main.css">
-  <link rel="stylesheet" href="css/styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="shortcut icon" href="icons/favicon.png">
+    <title>Random quote</title>
 </head>
 <body>
-    <div id="quote-box">
-      <p class="quote">You can do anything but not everything</p>
-      <p class="source">David Allen</p>
+    <div class="quote-box">
+        <div class="card">
+          <h2>Random Quote Generator</h2>
+          <!--button to display random quote-->
+          <button onclick="displayQuote()" class="btn">Click Here!</button>
+        </div>
+        <div id="quote-box"></div>
+            <p class="quote"></p>
+            <p class="source"></p>
     </div>
-    <button id="loadQuote">Show another quote</button>
-  </div>
-  <script src="js/main.js"></script>
 </body>
+<script src="js/main.js"></script>
 </html>

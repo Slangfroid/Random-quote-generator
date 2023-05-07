@@ -1,33 +1,35 @@
 # Overview
+This is a Random Quote generator that I was able to complete in around 20 hours.
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The goal of making this generator was to learn how to code in html, css, javascript with the hopes of becomming
+proficient in all three of the languages. I love learning and this project was a lot of fun to make.
 
-{Provide a description of the software that you wrote to demonstrate the JavaScript language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+The harmony that the three languages have is fun to work with. Being able to make a button that was clickable and
+worked to generate quotes was a really satisfying accomplishment.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
+- [Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus)
+- [VS code](https://code.visualstudio.com/download)
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
-
+* Html
+* Javascript
+* Css
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](https://www.youtube.com/watch?v=AD5hxsFJc4o)
-- [Web Site Name](https://gist.github.com/erickedji/68802#file-quotes-txt)
-- [Web Site Name](https://stackoverflow.com/questions/3244361/can-i-access-variables-from-another-file)
-
+- [How to Include JavaScript in Our HTML](https://www.youtube.com/watch?v=AD5hxsFJc4o)
+This is where I started to learn.
+- [Quotes](https://gist.github.com/erickedji/68802#file-quotes-txt)
+This is where I found most of my quotes.
+- [Javascript code example](https://github.com/rutikwankhade/Random-Quote/blob/master/script.js)
+This Github repo really helped me figure out what I needed to do to code this simple program.
+- [Css Positioning](https://stackoverflow.com/questions/40676648/how-can-i-position-one-element-below-another)
+This site helped a lot with some css problems that I was having.
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Item One: Css styling to make the source and the quote in the same box
+- Item Two: Adding pictures or textures around the background of the website.
+- Item Three: Make animated waves/lines appear on the webpage.
